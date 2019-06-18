@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Tue Jun 18 19:20:42 CST 2019
+2.base=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_/res/mipmap-mdpi-v4/ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_/res/mipmap-xxxhdpi-v4/ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_/res/drawable/icon.png
+5.base=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_
+8.file=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_/res/mipmap-xxhdpi-v4/ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_/res/mipmap-xhdpi-v4/ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_
+8.base=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/res/resources-debug.ap_/res/mipmap-hdpi-v4/ic_launcher.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

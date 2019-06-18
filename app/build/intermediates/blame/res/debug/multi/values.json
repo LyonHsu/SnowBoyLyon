@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 73,
+                        "endColumn": 48,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 44,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 120,
+                        "endColumn": 41,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 42,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 42,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 43,
+                    "endOffset": 231
+                },
+                "from": {
+                    "file": "/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 43,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 42,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "/Users/i_hfuhsu/Android/Self/SnowBoyLyon_Git/app/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 255,
+                        "endColumn": 42,
+                        "endOffset": 293
+                    }
+                }
+            }
+        ]
+    }
+]
